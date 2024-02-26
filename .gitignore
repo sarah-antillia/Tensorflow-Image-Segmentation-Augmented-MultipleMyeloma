@@ -163,8 +163,6 @@ dataset/
 #projects/TensorflowSWinUnet/BrainTumor/models/
 #projects/*/*/eval/
 projects/*/*/models/
-projects/*/*/mini_test_output/
-projects/*/*/mini_test_output_merged/
 
 projects/*/*/generated_images_dir/
 projects/*/*/generated_masks_dir/
